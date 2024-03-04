@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-    [https://youtu.be/vpnzHY0IZCw](https://youtu.be/vpnzHY0IZCw)
+[https://youtu.be/vpnzHY0IZCw](https://youtu.be/vpnzHY0IZCw)
 
 ## License
 
