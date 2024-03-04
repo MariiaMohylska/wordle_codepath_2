@@ -25,8 +25,9 @@ The following **optional** features are implemented:
 
 [https://youtu.be/vpnzHY0IZCw](https://youtu.be/vpnzHY0IZCw)
 
-![wordle2_pt1](https://github.com/MariiaMohylska/wordle_codepath_2/assets/55410334/0484c745-57f1-4f70-b6c0-900369ef09e3)
-![wordle2_pt2](https://github.com/MariiaMohylska/wordle_codepath_2/assets/55410334/5c197839-5984-433a-8c06-74709e696e43)
+![wordle2_pt1](https://github.com/MariiaMohylska/wordle_codepath_2/assets/55410334/eb9eb907-f489-4c7f-9c5f-462700c04c73)
+![wordle2_pt2](https://github.com/MariiaMohylska/wordle_codepath_2/assets/55410334/1aaf1d28-1073-4e02-94a9-134b8733d4db)
+
 
 ## License
 
